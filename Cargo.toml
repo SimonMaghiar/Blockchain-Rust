@@ -1,0 +1,9 @@
+[package]
+name = "Blockchain"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha2 = "0.10"
+secp256k1 = "0.20.1"
+chrono = "0.4"
